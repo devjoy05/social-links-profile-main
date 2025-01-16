@@ -47,16 +47,13 @@ body {
 .location {
     font-size: 14px;
     font-weight: 600;
+    color: #c5f82a;
 }
 
 .headline {
     font-size: 14px;
     margin: 1.5rem 1rem;
     
-}
-
-.location {
-    color: #c5f82a;
 }
 
 .social-links {
